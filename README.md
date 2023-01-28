@@ -1,15 +1,10 @@
-### Hi there, I'm Sharon 👋
+## Hi there! 👋
 
-I am a software engineer who dropped out of a PhD in neuro/psychology. I am passionate about building consumer-facing software that encourages community-building and creativity. I am currently working on helping to grow the social network of Nextdoor users.
+I'm a software developer and a passionate learner. I love to create and solve problems. Check out my latest projects and let me know what you think.
 
-I have experience in backend development, machine learning, and data science and engineering. I am constantly learning and expanding my skillset.
+### Fun fact about me:
 
-I am available for freelance/consulting opportunities. Feel free to reach out to me through my GitHub profile or email me at sychen23@gmail.com.
-
-You can also find me on:
-- https://linkedin.com/in/sychen23
-- https://twitter.com/sharon_chen_twt
-
+I once tried to write code using only emojis, it was a **syntax 😂 error**.
 
 <!--
 **sychen23/sychen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
