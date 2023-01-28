@@ -1,6 +1,6 @@
 ### Hi there, I'm Sharon 👋
 
-I am a software engineer[Your profession/field of study/interest]. I am passionate about building consumer-facing software that encourages community-building and creativity. I am currently working on helping to grow the social network of Nextdoor users.
+I am a software engineer who dropped out of a PhD in neuro/psychology. I am passionate about building consumer-facing software that encourages community-building and creativity. I am currently working on helping to grow the social network of Nextdoor users.
 
 I have experience in backend development, machine learning, and data science and engineering. I am constantly learning and expanding my skillset.
 
