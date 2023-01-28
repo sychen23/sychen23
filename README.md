@@ -1,10 +1,12 @@
-## Hi there! 👋
+## Hello! 👋
 
 I'm a software developer and a passionate learner. I love to create and solve problems. Check out my latest projects and let me know what you think.
 
 ### Fun fact about me:
 
-I once tried to write code using only emojis, it was a **syntax 😂 error**.
+Why was the computer cold?
+
+Because it left its Windows open! 😂
 
 <!--
 **sychen23/sychen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
