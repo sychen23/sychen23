@@ -2,7 +2,7 @@
 
 I'm a software developer and a passionate learner. I love to create and solve problems. Check out my latest projects and let me know what you think.
 
-### Fun fact about me:
+### A joke for you:
 
 Why was the computer cold?
 
