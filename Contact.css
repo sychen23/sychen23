@@ -1,14 +1,18 @@
+ .u-section-1 {
+  background-image: none;
+}
+
 .u-section-1 .u-sheet-1 {
-  min-height: 591px;
+  min-height: 433px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 60px;
-  margin-bottom: 60px;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 202px;
+  min-height: 186px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -28,18 +32,18 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 269px;
+  min-height: 247px;
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 30px;
+  padding: 30px 30px 0;
 }
 
 .u-section-1 .u-text-3 {
   text-transform: none;
   font-size: 2.25rem;
   font-weight: 700;
-  margin: 0 auto 0 0;
+  margin: 0 318px 0 0;
 }
 
 .u-section-1 .u-social-icons-1 {
@@ -78,7 +82,7 @@
 }
 
 .u-section-1 .u-layout-cell-3 {
-  min-height: 471px;
+  min-height: 433px;
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -104,19 +108,23 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 509px;
+    min-height: 351px;
   }
 
   .u-section-1 .u-layout-cell-1 {
-    min-height: 167px;
+    min-height: 153px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 222px;
+    min-height: 204px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 218px;
   }
 
   .u-section-1 .u-layout-cell-3 {
-    min-height: 388px;
+    min-height: 357px;
   }
 
   .u-section-1 .u-text-5 {
@@ -130,7 +138,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 320px;
+    min-height: 162px;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -139,6 +147,14 @@
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-bottom: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 108px;
   }
 
   .u-section-1 .u-layout-cell-3 {
@@ -152,7 +168,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 420px;
+    min-height: 262px;
   }
 
   .u-section-1 .u-container-layout-1 {
@@ -188,6 +204,7 @@
 
   .u-section-1 .u-text-3 {
     font-size: 1.5rem;
+    margin-right: 0;
   }
 
   .u-section-1 .u-layout-cell-3 {

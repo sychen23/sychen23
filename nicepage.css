@@ -38951,30 +38951,51 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 92px;
 }
 
 .u-header .u-menu-1 {
-  margin: 79px 0 22px auto;
+  margin: 28px auto 0 0;
 }
 
 .u-header .u-nav-1 {
-  font-weight: 500;
   font-size: 1rem;
 }
 
 .u-header .u-nav-2 {
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    width: auto;
-  }
 
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
-  }
+.u-header .u-social-icons-1 {
+  white-space: nowrap;
+  height: 24px;
+  min-height: 16px;
+  width: 200px;
+  min-width: 160px;
+  margin: -30px 28px 34px auto;
 }
+
+.u-header .u-icon-1 {
+  height: 32px;
+}
+
+.u-header .u-icon-2 {
+  height: 32px;
+  color: rgb(0, 137, 203) !important;
+}
+
+.u-header .u-icon-3 {
+  height: 32px;
+}
+
+.u-header .u-icon-4 {
+  height: 32px;
+}
+
+.u-header .u-icon-5 {
+  height: 32px;
+}
+
 
 
 

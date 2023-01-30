@@ -12,9 +12,13 @@
 
 .u-section-1 .u-image-1 {
   min-height: 549px;
-  background-image: url("images/IMG_4992.jpg");
   background-position: 75.78% 56.3%;
   background-size: auto 145%;
+  --animation-custom_in-translate_x: -200px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -23,6 +27,11 @@
 
 .u-section-1 .u-layout-cell-2 {
   min-height: 549px;
+  --animation-custom_in-translate_x: 300px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -147,6 +156,7 @@
 
 .u-section-2 .u-list-item-1 {
   transition-duration: 0.5s;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -170,11 +180,17 @@
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   font-size: 0.875rem;
   font-style: normal;
+  background-image: none;
   margin: 20px 0 0;
+}
+
+.u-section-2 .u-list-icon-1 {
+  color: rgb(239, 206, 74) !important;
 }
 
 .u-section-2 .u-list-item-2 {
   transition-duration: 0.5s;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -198,11 +214,21 @@
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   font-size: 0.875rem;
   font-style: normal;
+  background-image: none;
   margin: 20px 0 0;
+}
+
+.u-section-2 .u-list-icon-2 {
+  color: rgb(239, 206, 74) !important;
+}
+
+.u-section-2 .u-list-icon-3 {
+  color: rgb(239, 206, 74) !important;
 }
 
 .u-section-2 .u-list-item-3 {
   transition-duration: 0.5s;
+  --animation-custom_in-scale: 0.3;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -226,7 +252,24 @@
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
   font-size: 0.875rem;
   font-style: normal;
+  background-image: none;
   margin: 20px 0 0;
+}
+
+.u-section-2 .u-list-icon-4 {
+  color: rgb(239, 206, 74) !important;
+}
+
+.u-section-2 .u-list-icon-5 {
+  color: rgb(239, 206, 74) !important;
+}
+
+.u-section-2 .u-list-icon-6 {
+  color: rgb(239, 206, 74) !important;
+}
+
+.u-section-2 .u-list-icon-7 {
+  color: rgb(239, 206, 74) !important;
 }
 
 @media (max-width: 1199px) {
