@@ -38959,6 +38959,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-1 {
+  font-weight: 400;
   font-size: 1rem;
 }
 
@@ -38970,8 +38971,8 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 24px;
   min-height: 16px;
-  width: 200px;
-  min-width: 160px;
+  width: 244px;
+  min-width: 196px;
   margin: -30px 28px 34px auto;
 }
 
@@ -38981,7 +38982,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-icon-2 {
   height: 32px;
-  color: rgb(0, 137, 203) !important;
 }
 
 .u-header .u-icon-3 {
@@ -38994,6 +38994,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-icon-5 {
   height: 32px;
+}
+
+.u-header .u-icon-6 {
+  height: 0;
 }
 
 
