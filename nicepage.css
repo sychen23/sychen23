@@ -39152,8 +39152,8 @@ a.u-link.u-text-hover-grey-90:hover {
   white-space: nowrap;
   height: 24px;
   min-height: 16px;
-  width: 200px;
-  min-width: 160px;
+  width: 244px;
+  min-width: 196px;
   margin: -30px 28px 34px auto;
 }
 
@@ -39170,10 +39170,14 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-icon-4 {
-  height: 32px;
+  height: 0;
 }
 
 .u-header .u-icon-5 {
+  height: 32px;
+}
+
+.u-header .u-icon-6 {
   height: 0;
 }
 
