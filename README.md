@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm a software developer and a passionate learner. I love to create and solve problems. Check out my latest projects and let me know what you think.
+I'm a software engineer and a passionate learner. I love to create software and solve problems. Check out my latest projects and let me know what you think.
 
 ### A joke for you:
 
